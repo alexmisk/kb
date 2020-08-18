@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "5d393c3cf367ca79",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca6a1f5ecd309ffc",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "dev/python/misc.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "035b7b38bf351571",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc5713c1f652c8c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "decea0b75a61a391",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b380aad5beff5638",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a035ca94d8c6ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b03b70cec2bc026b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec5556c823db476",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "dev/python/Untitled.md",
+    "dev/vcs/git tricks.md",
+    "dev/vcs/conventional commits.md",
+    "internet/yota.md",
+    "internet/Untitled.md"
+  ]
+}
