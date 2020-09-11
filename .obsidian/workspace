@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd7139d2c516107",
+        "id": "aef42dcf07efd809",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dev/vcs/git tricks.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
@@ -72,10 +71,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "dev/linux/utils.md",
     "dev/vcs/git tricks.md",
-    "dev/python/misc.md",
-    "dev/python/Untitled.md",
     "dev/vcs/conventional commits.md",
+    "dev/linux/Untitled.md",
     "internet/yota.md"
   ]
 }
