@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "dev/macos/macos.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "dev/macos/macos.md"
+              }
             }
           }
         ]
@@ -71,10 +76,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "dev/macos/Untitled.md",
     "dev/linux/utils.md",
     "dev/vcs/git tricks.md",
     "dev/vcs/conventional commits.md",
-    "dev/linux/Untitled.md",
-    "internet/yota.md"
+    "dev/linux/Untitled.md"
   ]
 }
