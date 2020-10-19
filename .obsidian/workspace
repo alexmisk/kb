@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dev/macos/macos.md",
+            "file": "dev/vcs/git tricks.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "zip"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/macos/macos.md"
+                "file": "dev/vcs/git tricks.md"
               }
             }
           }
@@ -76,10 +76,13 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "dev/macos/Untitled.md",
-    "dev/linux/utils.md",
     "dev/vcs/git tricks.md",
+    "food/Тесто для пиццы.md",
+    "food/Тесто для блинов.md",
+    "dev/linux/utils.md",
     "dev/vcs/conventional commits.md",
+    "dev/macos/macos.md",
+    "dev/macos/Untitled.md",
     "dev/linux/Untitled.md"
   ]
 }
