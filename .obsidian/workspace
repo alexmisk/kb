@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "aef42dcf07efd809",
+        "id": "f5375ed57b36e4f5",
         "type": "leaf",
         "active": true,
         "state": {
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zip"
+                "query": "fixup",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/vcs/git tricks.md"
+                "file": "dev/vcs/git tricks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -77,10 +87,10 @@
   },
   "lastOpenFiles": [
     "dev/vcs/git tricks.md",
+    "dev/vcs/conventional commits.md",
     "food/Тесто для пиццы.md",
     "food/Тесто для блинов.md",
     "dev/linux/utils.md",
-    "dev/vcs/conventional commits.md",
     "dev/macos/macos.md",
     "dev/macos/Untitled.md",
     "dev/linux/Untitled.md"
