@@ -24,3 +24,18 @@ git checkout --track origin/daves_branch
 git commit -a --fixup <commit hash>
 git rebase --autosquash -i <base>
 ```
+
+### Remove all tags
+```
+#Delete local tags.
+git tag -l | xargs git tag -d
+
+#Fetch remote tags.
+git fetch
+
+#Delete remote tags.
+git tag -l | xargs -n 1 git push --delete origin
+
+#Delete local ta
+git tag -l | xargs git tag -d
+```
